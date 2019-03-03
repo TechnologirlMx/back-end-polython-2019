@@ -1,12 +1,12 @@
 # Conversacion
 Hace uso de DialogFlow
 
-[Prueba el chat aquí](https://bot.dialogflow.com/bitbot-polython)
+[Prueba el chat aquÃ­](https://bot.dialogflow.com/bitbot-revolvers)
 
 ## Preguntas posibles del Usario
 
-* ¿Cuánto vale el bitcoin?
-* ¿He tenido ganancias el día de hoy?
+* Â¿CuÃ¡nto vale el bitcoin?
+* Â¿He tenido ganancias el dÃ­a de hoy?
 * Quiero poner una alerta 
   * quiero poner una alerta para cuando el bitcoin llegue a X pesos
   * avisame si el bitcoin rebasa x psos
